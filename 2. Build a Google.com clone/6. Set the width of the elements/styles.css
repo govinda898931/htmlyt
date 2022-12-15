@@ -4,3 +4,16 @@ Select the img tag and set the width
 of the Google logo to be 300px.
 */
 
+input {
+    width: 400px;
+    display: block;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+}
+
+body {
+    text-align: center;
+}
