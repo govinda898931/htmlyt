@@ -1,5 +1,4 @@
 img {
-    margin-top: 100px;
     display: block;
     width: 300px;
 }
@@ -7,4 +6,8 @@ img {
 input {
     display: block;
     width: 400px;
+}
+
+.main {
+    margin-top: 100px;
 }
