@@ -20,4 +20,5 @@ we can do this with margins?
 .search-input {
     display: block;
     width: 400px;
+    margin-top: 20px;
 }
