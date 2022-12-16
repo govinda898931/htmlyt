@@ -8,7 +8,7 @@ body {
 }
 
 .card {
-    width: 400px;
+    width: 600px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
@@ -29,3 +29,12 @@ body {
     border: 1px dotted blue;
 }
 
+.qual {
+    text-align: left;
+}
+
+img {
+    margin-top: auto;
+    max-height: 150px;
+    margin-bottom: auto;
+}
